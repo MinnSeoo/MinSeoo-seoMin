@@ -4,7 +4,7 @@
 <div align=center><h2>STATS</h2></div>
 <div align=center>
   
-![stats](https://github-readme-stats.vercel.app/api?username=MinnSeoo&show_icons=true) [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinnSeoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/100Seung-Min)
+![stats](https://github-readme-stats.vercel.app/api?username=MinnSeoo&show_icons=true) [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinnSeoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/MinnSeoo)
 
 ##
 
